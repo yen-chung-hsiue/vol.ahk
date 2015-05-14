@@ -906,6 +906,31 @@ Please keep external drainage.
 send %exam% `t %imp%
 return
 
+::_CTGb::                  ;CT-guided biopsy.
+inputbox, indi, CTGD indication, indication/position/needle`n1. indication, , 300, 150
+inputbox, posi, position, indication/position/needle`n2/cavity`n2. Supine prone..., , 300, 150
+inputbox, needle, needle size, indication/position/needle`n3. 10vm 11G bone bipsy needle or ?G coaxial biopsy needle, , 300, 150
+exam=
+(
+CT-guided biopsy
+
+Indication: %indi%
+Position: %posi%
+Anesthesia: local anesthesia with 10ml of 2`% Xylocaine.
+Procedure: 
+ 1). Localize, sterilize, draping, and local anesthesia at puncture site.
+ 2). Insert a %needle% to the %posi% (via the left transpedicular approach), under CT-guidance. Obtain xxx bone fragment, which are sent for pathology and imprint cytology studies.
+ 3). The patient tolerated the procedure well without definite complaints.
+)
+
+)
+imp=
+(
+Under the diagnosis of %indi%, biopsy is performed smoothly.
+Suggestion bed rest for 4 hours, and pursuit pathology reports.
+)
+send %exam% `t %imp%
+return
 
 ::_tace::   ;TACE
 inputbox, indi, TACE indication, indication/position/chiba/pigtail/cavity`n1. indication, , 300, 150,,,,,recurrent HCC
