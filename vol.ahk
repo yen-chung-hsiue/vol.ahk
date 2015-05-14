@@ -941,6 +941,90 @@ Complication:
 )
 return
 
+
+;tempalte
+::_mrikneet::
+(
+MRI of the knee without intravenous gadolinium contrast enhancement shows:
+Menisci
+Medial meniscus: Intact.
+Lateral meniscus: Intact.
+
+Ligaments
+Cruciate ligaments: Intact.
+Medial collateral ligament: Superficial and deep components intact. No periligamentous edema.
+Lateral collateral ligament: Intact.
+Posterolateral corner structures: Intact.
+
+Fluid
+Fluid No joint effusion. No Baker's cyst.
+
+Osseous and Articular Structures
+Bones: No fracture, stress reaction, or osseous lesion is seen.
+Patellofemoral compartment: No hyaline cartilage disease.
+Medial compartment: No hyaline cartilage disease.
+Lateral compartment: No hyaline cartilage disease.
+
+Impression
+1. Normal menisci.
+2. No cruciate or collateral ligament tears.
+3. No osseous or cartilaginous abnormality.
+)
+
+
+::_mrianklet::
+(
+MRI of the ankle without intravenous gadolinium contrast enhancement shows:
+Alignment
+
+
+Medial compartment
+Medial malleolus: Normal. 
+Posterior tibial tendon: Normal. 
+Flexor digitorum longus: Normal. 
+Deltoid ligament complex - Superficial: Intact.
+Deltoid ligament complex - Deep: Intact. 
+Spring (plantar calcaneo-navicular) ligament: Intact. 
+
+Lateral compartment
+Lateral malleolus: Normal.
+Retromalleolar groove: Flat | Concave | Convex
+Peroneus longus: Normal. 
+Peroneus brevis: Normal. 
+Peroneal retinaculum: Intact. 
+Peroneus quartus: Present. 
+Anterior inferior tibiofibular ligament: Intact. 
+Posterior inferior tibiofibular ligament: Intact. 
+Anterior talofibular ligament: Intact. 
+Calcaneofibular ligament: Intact. 
+Posterior talofibular ligament: Intact. 
+
+Posterior compartment
+Posterior talus: Normal. 
+Flexor hallucis longus: Normal. 
+Intermalleolar ligament: Intact. 
+Achilles tendon: Normal. 
+Plantar fascia: Normal. 
+
+Anterior compartment
+Anterior tibial tendon: Normal.
+Extensor hallucis longus: Normal. 
+Extensor digitorum longus: Normal. 
+Peroneus tertius: Present
+
+Joints
+Tibiotalar joint Normal. 
+Subtalar joint: Normal. 
+Tarsal joints: Normal. 
+
+Other findings
+Bones (other than subarticular marrow): Normal. 
+Muscles: Normal. 
+Tarsal tunnel: Normal. 
+Sinus tarsi: Normal. 
+
+)
+
 /*
 ::pcn::
 tmp:=$.value(3) 
