@@ -385,17 +385,26 @@ return
 :*:thn1::thyroid nodules
 
 ;ortho
+::ant::anterior
+
 ::lcp::Legg-Calve-Perthes disease
 ::acl::anterior cruciate ligament
 ::pcl::posterior cruciate ligament
-::pfj::patellofemoral joint
-::tfj::tibiofemoral joint
-::kj::knee joint
 ::mcl::medial collateral ligament
 ::fcl::fibular collateral ligament
-::pfj::patellofemoral joint
-::acj::acromioclavicular joint
-::ant::anterior
+
+::ddh::developmental dysplasia of hip
+::jpf::patellofemoral joint
+::jtf::tibiofemoral joint
+::jk::knee joint
+::jpf::patellofemoral joint
+::jac::acromioclavicular joint
+
+::prefx::previous fracture(s) with suspect callus formation at
+::tkrr::total knee arthroplasty of the right knee
+::tkrb::total knee arthroplasty of the both knee
+::tkrl::total knee arthroplasty of the left knee
+
 ::mof::marginal osteophyte(s) formation
 ::wdg::wedge deformity
 ::dch::decreased height
